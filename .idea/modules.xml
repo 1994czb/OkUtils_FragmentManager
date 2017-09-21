@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/OkUtils/OkUtils.iml" filepath="$PROJECT_DIR$/OkUtils/OkUtils.iml" />
       <module fileurl="file://$PROJECT_DIR$/OkUtils_FragmentManager.iml" filepath="$PROJECT_DIR$/OkUtils_FragmentManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myfragmentmanager/myfragmentmanager.iml" filepath="$PROJECT_DIR$/myfragmentmanager/myfragmentmanager.iml" />
     </modules>
   </component>
 </project>
